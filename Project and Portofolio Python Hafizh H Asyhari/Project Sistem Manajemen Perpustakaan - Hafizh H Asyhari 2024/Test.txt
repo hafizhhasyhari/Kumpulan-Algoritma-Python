@@ -1,0 +1,29 @@
+Title : ABC A
+ASIN  :  053493456
+Publisher  :  A;
+Language  :  English
+Hardcover  :  100 pages
+ISBN-10  :  123459948221
+ISBN-13 : 978-05344578
+
+Title : ZSD
+Publisher  :  S ;
+Language  :  English
+Year : 1950
+Month : 5
+ISBN-10  :  1803232314
+ISBN-13  :  978-1803234519
+
+Title : C
+Publisher  :  DD
+Year : 1982
+Month : 3
+Paperback  :  277 pages
+ISBN-10 : 2345603628
+ISBN-13 : 978-013156762
+
+// Proyek Sistem Manajemen Perpustakaan 
+// Author by Hafizh H Asyhari @hafizhhasyhari
+// Date : 2024
+
+
